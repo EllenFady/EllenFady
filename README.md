@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ellen!</h1>
-<h3 align="center">I am a Data Science learner</h3>
+<h3 align="center">I am a Data Scientist with a background in Data Analysis</h3>
 
 - 🔭 I’m currently working on **Robo Advisor**
 
