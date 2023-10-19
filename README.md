@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Robo Advisor**
 
-- 🌱 I’m currently learning **Data Science at Le Wagon**
+- 🌱 I’m currently learning **Data Science**
 
 - 💬 Ask me about **Data Analysis**
 
